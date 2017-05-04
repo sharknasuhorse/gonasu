@@ -1,5 +1,5 @@
 package animals
 
-func MonkeyFeed() string{
-	return "banana"
+func MonkeyFeed() string {
+	return "Banana"
 }
