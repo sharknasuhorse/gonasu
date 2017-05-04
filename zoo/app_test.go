@@ -12,3 +12,4 @@ func TestAppName(t *testing.T) {
 		t.Errorf("%s != %s", expect, actual)
 	}
 }
+
