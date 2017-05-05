@@ -23,4 +23,6 @@ func main() {
 	time.Sleep(3 * time.Second)
 	log.Print(x, "のスリープ終わり")
 	x = x + 1
+
+	tes
 }
