@@ -19,10 +19,9 @@ func main() {
 	log.Print(x, "のスリープ終わり")
 	x = x + 1
 
-	log.Print(x, "のスリープ初め")
+	log.Print(x, "のスリープ初め"
 	time.Sleep(3 * time.Second)
 	log.Print(x, "のスリープ終わり")
 	x = x + 1
 
-	tes
 }
