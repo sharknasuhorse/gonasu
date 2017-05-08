@@ -7,5 +7,5 @@ import (
 func main() {
 	i := "nasuctf{GoisGOD}"
 	fmt.Println("can u get flag????")
-	i = i
+	i = "aaa" + i
 }
